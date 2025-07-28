@@ -1,3 +1,6 @@
+This is the original driver repackaged with a flake for Nix compatibility.
+README below left unchanged.
+
 Linux Canon CAPT driver
 -----------------------
 
